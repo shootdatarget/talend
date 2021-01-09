@@ -15,6 +15,7 @@
     <module>jobs/process/job2_0.1</module>
     <module>jobs/process/job3_0.1</module>
     <module>jobs/process_storm/t2_0.1</module>
+    <module>jobs/process_storm/t2_0.2</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
